@@ -1,3 +1,3 @@
 ### Hi there 👋
 
- 🌱 I’m currently learning VueJs, Laravel, NodeJS and AdnisJS Framework
+ 🌱 I’m currently learning VueJs, Laravel, NodeJS, .Net Framework (C#) and AdnisJS Framework
