@@ -2,4 +2,7 @@
 
  🌱 I’m currently learning VueJs, Laravel, NodeJS, .Net Framework (C#) and AdnisJS Framework.
  
- 🔒 My first language which I have learned was PHP with HTML, some little CSS, Bootstrap, Jquery, and JavaScript.
+ 🔒 My first language which I have learned was PHP with HTML, CSS, Bootstrap, Jquery, and JavaScript.
+ 
+ 
+ 🌍 I like to share my knowledge with anyone who likes to get it.
