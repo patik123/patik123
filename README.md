@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🌱 I’m currently learning VueJs, Laravel, NodeJS, .Net Framework (C#) and AdnisJS Framework.
+ 🌱 I’m currently learning VueJs, Laravel, NodeJS, .Net Framework (C#) and AdnisJS Framework, ElectronJs, Apache Cordova.
  
  🔒 My first language which I have learned was PHP with HTML, CSS, Bootstrap, Jquery, and JavaScript.
  
