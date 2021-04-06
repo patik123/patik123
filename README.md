@@ -6,4 +6,6 @@
  
  🌍 I like to share my knowledge with anyone who likes to get it.
  
+ 💻 Now I working on my first web app (full featured file manager) - Maybe it will be open source 😉
+ 
  ✉️ My contact email is: [patik.developer@outlook.com](mailto:patik.developer@outlook.com)
