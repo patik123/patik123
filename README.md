@@ -9,3 +9,5 @@
  💻 Now I working on my first web app (full featured file manager) - Maybe it will be open source 😉
  
  ✉️ My contact email is: [patik.developer@outlook.com](mailto:patik.developer@outlook.com)
+ 
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=patik123.patik123)
