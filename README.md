@@ -13,11 +13,7 @@
    ![visitors](https://visitor-badge.glitch.me/badge?page_id=patik123.patik123)
    
    
-   ![Patik123's GitHub stats](https://github-readme-stats.vercel.app/api?username=patik123)
-   
 
-   
-   ![Patik123's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patik123)
    
    ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
