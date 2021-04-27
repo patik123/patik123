@@ -15,6 +15,34 @@
    
    ![Patik123's GitHub stats](https://github-readme-stats.vercel.app/api?username=patik123)
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patik123)
+   ![Patik123's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patik123)
    
-   ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patik123)
+   ![Patik123's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patik123)
+   
+   ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+   ![Visual studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+   ![AdonisJS](https://img.shields.io/badge/-AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white)
+   ![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
+   ![Windows 10](https://img.shields.io/badge/-Windows%2010-0078D6?style=flat-square&logo=windows&logoColor=white)
+   ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=flat-square&logo=node.js&logoColor=white)
+   ![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?style=flat-square&logo=font-awesome&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+   ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+   ![Woocommerce](https://img.shields.io/badge/-Woocommerce-96588A?style=flat-square&logo=woo&logoColor=white)
+   ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+   ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)
+   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+   ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
+   
+   
+   
+   
+   
+   
+   
+   
+   
