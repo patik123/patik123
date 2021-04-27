@@ -11,4 +11,6 @@
  ✉️ My contact email is: [patik.developer@outlook.com](mailto:patik.developer@outlook.com)
  
    ![visitors](https://visitor-badge.glitch.me/badge?page_id=patik123.patik123)
-   [![Patik123's GitHub stats](https://github-readme-stats.vercel.app/api?username=patik123)]
+   
+   
+   ![Patik123's GitHub stats](https://github-readme-stats.vercel.app/api?username=patik123)
