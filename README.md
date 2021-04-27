@@ -14,3 +14,7 @@
    
    
    ![Patik123's GitHub stats](https://github-readme-stats.vercel.app/api?username=patik123)
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patik123)
+   
+   ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patik123)
