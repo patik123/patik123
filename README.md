@@ -12,7 +12,11 @@
  
    ![visitors](https://visitor-badge.glitch.me/badge?page_id=patik123.patik123)
    
+   ![Patik123's GitHub stats](https://github-readme-stats.vercel.app/api?username=patik123)
    
+   ![Patik123's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patik123)
+   
+   ![Patik123's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patik123)
 
    
    ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
