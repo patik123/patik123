@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
  🌱 I’m currently learning VueJs, Laravel, NodeJS, .Net Framework (C#), AdnisJS Framework, ElectronJs and Apache Cordova.
  
