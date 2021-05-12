@@ -1,6 +1,6 @@
 ### Hey 👋
 
- 🌱 I’m currently learning VueJs, Laravel, NodeJS, .Net Framework (C#), AdonisJS Framework, ElectronJs and Apache Cordova.
+ 🌱 I’m currently learning VueJs, Laravel, NodeJS, .Net Framework (C#), AdonisJS Framework, ElectronJs, creating Discord Bots in DiscordJS.
  
  🔒 My first language and frameworks which I have learned was PHP, HTML, CSS, Bootstrap, Jquery, and JavaScript.
  
