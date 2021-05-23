@@ -10,7 +10,9 @@
  💻 Now I working on my first web app (full-featured file manager) - Maybe it will be open source 😉
  
  
-Currently, in my spare time, I have started writing my developer blog:  [Blog link](https://patikdev.ga/)
+Currently, in my spare time, I have started writing my developer blog:  [Blog link](https://patikdev.ga/).
+
+You can join my [Discord Server Devium](https://discord.gg/TsmbXPdeVp).
 
 #### Latest posts
 | Post  | 
@@ -51,12 +53,3 @@ Currently, in my spare time, I have started writing my developer blog:  [Blog li
    ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white&style=for-the-badge)
    ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&style=for-the-badge)
    ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&style=for-the-badge)
-   
-   
-   
-
-   
-   
-   
-   
-   
