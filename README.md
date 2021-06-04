@@ -12,7 +12,7 @@
  
 Currently, in my spare time, I have started writing my developer blog:  [Blog link](https://patikdev.ga/).
 
-You can join my [Discord Server Devium](https://discord.gg/TsmbXPdeVp).
+
 
 #### Latest posts
 | Post  | 
