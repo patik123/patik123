@@ -10,20 +10,6 @@
  💻 Now I working on my first web app (full-featured file manager) - Maybe it will be open source 😉
  
  
-Currently, in my spare time, I have started writing my developer blog:  [Blog link](https://patikdev.ga/).
-
-
-
-#### Latest posts
-| Post  | 
-| ----------- | 
-| [How from idea to realization?](https://patikdev.ga/how-from-idea-to-realization) | 
- 
- 
- 
- 
- 
- 
  ✉️ You can reach me at my email: [patik.developer@outlook.com](mailto:patik.developer@outlook.com). 
  
    ![visitors](https://visitor-badge.glitch.me/badge?page_id=patik123.patik123)
