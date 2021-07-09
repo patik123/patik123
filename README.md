@@ -3,14 +3,14 @@
  
  🌱 I’m currently learning VueJs, Laravel, NodeJS, .Net Framework (C#), AdonisJS Framework, ElectronJs, creating Discord Bots in DiscordJS.
  
- 🔒 My first language and frameworks which I have learned was PHP, HTML, CSS, Bootstrap, Jquery, and JavaScript.
+ 🔒 My first language and frameworks which I have learned was PHP, HTML, CSS, Bootstrap, jQuery, and JavaScript.
  
  🌍 I like to share my knowledge with anyone who likes to get it.
  
  💻 Now I working on my first web app (full-featured file manager) - Maybe it will be open source 😉
  
  
- ✉️ You can reach me at my email: [patik.developer@outlook.com](mailto:patik.developer@outlook.com). 
+ ✉️ You can reach me at my email: [patrick@thepatik.eu.org](mailto:patrick@thepatik.eu.org). 
  
    ![visitors](https://visitor-badge.glitch.me/badge?page_id=patik123.patik123)
    
