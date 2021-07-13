@@ -11,18 +11,18 @@
  
  
  
- 
+## My latest articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
    ![visitors](https://visitor-badge.glitch.me/badge?page_id=patik123.patik123)
  <p>
   <img src="https://github-readme-stats.vercel.app/api?username=patik123&theme=algolia" alt="Patik123's GitHub stats" >  
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patik123&theme=algolia" alt="Patik123's top Langs">  
 </p>
-   
-
-<details>
-  <summary>See the result!</summary>
-
-</details>
 
 
 
