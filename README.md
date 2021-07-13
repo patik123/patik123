@@ -14,13 +14,15 @@
  
    ![visitors](https://visitor-badge.glitch.me/badge?page_id=patik123.patik123)
  <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=patik123&theme=algolia" alt="Patik123's GitHub stats">  
+  <img src="https://github-readme-stats.vercel.app/api?username=patik123&theme=algolia" alt="Patik123's GitHub stats" >  
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patik123&theme=algolia" alt="Patik123's top Langs">  
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=patik123&theme=algolia" alt="Patik123's wakatime stats">  
 </p>
    
 
+<details>
+  <summary>See the result!</summary>
 
+</details>
 
 
 
