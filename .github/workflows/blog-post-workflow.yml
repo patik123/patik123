@@ -12,3 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@Patik123, https://patikdev.hashnode.dev/rss.xml, https://dev.to/feed/patik123/"
+          max_post_count: 5
