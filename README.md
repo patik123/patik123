@@ -1,5 +1,7 @@
 ### Hey 👋
  
+ I'm Patrick, a computer science student in Slovenia. 
+ 
 🌱 I’m currently learning VueJs, Laravel, NodeJS, .Net Framework (C#), AdonisJS Framework, ElectronJs, creating Discord Bots in DiscordJS.
  
 🔒 My first language and frameworks which I have learned was PHP, HTML, CSS, Bootstrap, jQuery, and JavaScript.
