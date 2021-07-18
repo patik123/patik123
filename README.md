@@ -63,3 +63,7 @@ More articles can find:
    ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
    ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?&style=for-the-badge&logo=Azure%20DevOps&logoColor=white)
    ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+
+[comment]: <> (This site include Google Analytics)
+<img style="display: none; visibility:hidden" src="https://ga-beacon.appspot.com/UA-198344899-2/patik123/readme?pixel" alt="Analytics">
