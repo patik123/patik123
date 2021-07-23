@@ -13,8 +13,10 @@
 ### My latest articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Dijak? kaj lahko dobiš s šolskim elektronskim naslovom](https://patik123.medium.com/dijak-kaj-lahko-dobis-s-solskim-elektronskim-naslovom-b34bff7143f5?source=rss-8219027f88da------2)
 - [Beginning in the world of cryptocurrencies](https://blog.thepatik.eu.org/beginning-in-the-world-of-cryptocurrencies)
 - [How from idea to realization?](https://blog.thepatik.eu.org/how-from-idea-to-realization)
+- [Kako od ideje do realizacije?](https://patik123.medium.com/kako-od-ideje-do-realizacije-83d50dcc3582?source=rss-8219027f88da------2)
 - [About blog](https://blog.thepatik.eu.org/about-blog)
 <!-- BLOG-POST-LIST:END -->
 
