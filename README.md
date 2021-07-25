@@ -17,7 +17,7 @@
 - [How to get a free domain and DNS hosting?](https://blog.thepatik.eu.org/how-to-get-a-free-domain-and-dns-hosting)
 - [Dijak? kaj lahko dobiš s šolskim elektronskim naslovom](https://patik123.medium.com/dijak-kaj-lahko-dobis-s-solskim-elektronskim-naslovom-b34bff7143f5?source=rss-8219027f88da------2)
 - [Beginning in the world of cryptocurrencies](https://blog.thepatik.eu.org/beginning-in-the-world-of-cryptocurrencies)
-- [How from idea to realization?](https://blog.thepatik.eu.org/how-from-idea-to-realization)
+- [Beginning in the world of cryptocurrencies](https://dev.to/patik123/beginning-in-the-world-of-cryptocurrencies-3g7j)
 <!-- BLOG-POST-LIST:END -->
 
 More articles can find:
