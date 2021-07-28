@@ -13,11 +13,11 @@
 ### My latest articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get a free domain and DNS hosting?](https://dev.to/patik123/how-to-get-a-free-domain-and-dns-hosting-49i7)
 - [How to get a free domain and DNS hosting?](https://blog.thepatik.eu.org/how-to-get-a-free-domain-and-dns-hosting)
 - [Dijak? kaj lahko dobiš s šolskim elektronskim naslovom](https://patik123.medium.com/dijak-kaj-lahko-dobis-s-solskim-elektronskim-naslovom-b34bff7143f5?source=rss-8219027f88da------2)
 - [Beginning in the world of cryptocurrencies](https://blog.thepatik.eu.org/beginning-in-the-world-of-cryptocurrencies)
-- [Beginning in the world of cryptocurrencies](https://dev.to/patik123/beginning-in-the-world-of-cryptocurrencies-3g7j)
+- [How from idea to realization?](https://blog.thepatik.eu.org/how-from-idea-to-realization)
+- [Kako od ideje do realizacije?](https://patik123.medium.com/kako-od-ideje-do-realizacije-83d50dcc3582?source=rss-8219027f88da------2)
 <!-- BLOG-POST-LIST:END -->
 
 More articles can find:
