@@ -66,4 +66,4 @@ More articles can find:
 
 
 [comment]: <> (This site include Google Analytics)
-<img style="display: none; visibility:hidden" src="https://ga-beacon.appspot.com/UA-198344899-2/patik123/readme?pixel" alt="Analytics">
+<img src="https://ga-beacon.appspot.com/UA-198344899-2/patik123/readme?pixel" alt="Analytics">
