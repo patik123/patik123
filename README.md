@@ -65,5 +65,3 @@ More articles can find:
    ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 
-[comment]: <> (This site include Google Analytics)
-<img src="https://ga-beacon.appspot.com/UA-198344899-2/patik123/readme?pixel" alt="Analytics">
