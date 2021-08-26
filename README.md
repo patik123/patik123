@@ -8,8 +8,7 @@
  
 🌍 I like to share my knowledge with anyone who likes to get it.
  
-💻 Now I working on my first web app (full-featured file manager) - Maybe it will be open source 😉
- 
+
 ### My latest articles
 
 <!-- BLOG-POST-LIST:START -->
@@ -20,7 +19,7 @@
 - [Beginning in the world of cryptocurrencies](https://blog.thepatik.eu.org/beginning-in-the-world-of-cryptocurrencies)
 <!-- BLOG-POST-LIST:END -->
 
-More articles can find:
+More articles can find on:
 <p>
 <a href="https://blog.thepatik.eu.org" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
 <a href="https://patik123.medium.com" target="_blank"><img src="https://img.shields.io/badge/medium-000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
