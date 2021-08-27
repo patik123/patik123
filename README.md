@@ -27,7 +27,7 @@ More articles can find on:
 </p>  
 
 
-  ![Number of all visitors](https://visitor-badge.glitch.me/badge?page_id=patik123.patik123)
+![Profile views counter](https://komarev.com/ghpvc/?username=patik123&color=blue)
 
  <p>
   <img src="https://github-readme-stats.vercel.app/api?username=patik123&theme=algolia" alt="Patik123's GitHub stats" >  
