@@ -15,6 +15,7 @@
 - [How to install WordPress](https://blog.thepatik.eu.org/how-to-install-wordpress)
 - [Must know basic Linux commands](https://blog.thepatik.eu.org/must-know-basic-linux-commands)
 - [How to get a free domain and DNS hosting?](https://blog.thepatik.eu.org/how-to-get-a-free-domain-and-dns-hosting)
+- [Dijak? kaj lahko dobiš s šolskim elektronskim naslovom](https://patik123.medium.com/dijak-kaj-lahko-dobis-s-solskim-elektronskim-naslovom-b34bff7143f5?source=rss-8219027f88da------2)
 - [Beginning in the world of cryptocurrencies](https://blog.thepatik.eu.org/beginning-in-the-world-of-cryptocurrencies)
 <!-- BLOG-POST-LIST:END -->
 
