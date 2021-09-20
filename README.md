@@ -12,11 +12,11 @@
 ### My latest articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Must know platforms for networking as a computer science geek](https://blog.thepatik.eu.org/must-know-platforms-for-networking-as-a-computer-science-geek)
 - [Unlimited JavaScript (or where can I use JavaScript)](https://blog.thepatik.eu.org/unlimited-javascript-or-where-can-i-use-javascript)
 - [How show PDF in vanilla JavaScript in Browser🤯](https://blog.thepatik.eu.org/how-show-pdf-in-vanilla-javascript-in-browser)
 - [How to install WordPress](https://blog.thepatik.eu.org/how-to-install-wordpress)
 - [Must know basic Linux commands](https://blog.thepatik.eu.org/must-know-basic-linux-commands)
-- [How to get a free domain and DNS hosting?](https://blog.thepatik.eu.org/how-to-get-a-free-domain-and-dns-hosting)
 <!-- BLOG-POST-LIST:END -->
 
 More articles can find on:
