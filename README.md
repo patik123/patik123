@@ -12,11 +12,8 @@
 ### My latest articles
 
 <!-- BLOG-POST-LIST:START -->
-- [My first Microsoft Form App in C#](https://blog.thepatik.eu.org/my-first-microsoft-form-app-in-csharp)
-- [Must know platforms for networking as a computer science geek](https://blog.thepatik.eu.org/must-know-platforms-for-networking-as-a-computer-science-geek)
-- [Unlimited JavaScript (or where can I use JavaScript)](https://blog.thepatik.eu.org/unlimited-javascript-or-where-can-i-use-javascript)
-- [How show PDF in vanilla JavaScript in Browser🤯](https://blog.thepatik.eu.org/how-show-pdf-in-vanilla-javascript-in-browser)
-- [How to install WordPress](https://blog.thepatik.eu.org/how-to-install-wordpress)
+- [Dijak? kaj lahko dobiš s šolskim elektronskim naslovom](https://patik123.medium.com/dijak-kaj-lahko-dobis-s-solskim-elektronskim-naslovom-b34bff7143f5?source=rss-8219027f88da------2)
+- [Kako od ideje do realizacije?](https://patik123.medium.com/kako-od-ideje-do-realizacije-83d50dcc3582?source=rss-8219027f88da------2)
 <!-- BLOG-POST-LIST:END -->
 
 More articles can find on:
