@@ -12,11 +12,11 @@
 ### My latest articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Let's program the Arduino with Javascript🤯](https://blog.thepatik.eu.org/lets-program-the-arduino-with-javascript)
 - [My first Microsoft Form App in C#](https://blog.thepatik.eu.org/my-first-microsoft-form-app-in-csharp)
 - [Must know platforms for networking as a computer science geek](https://blog.thepatik.eu.org/must-know-platforms-for-networking-as-a-computer-science-geek)
 - [Unlimited JavaScript (or where can I use JavaScript)](https://blog.thepatik.eu.org/unlimited-javascript-or-where-can-i-use-javascript)
 - [How show PDF in vanilla JavaScript in Browser🤯](https://blog.thepatik.eu.org/how-show-pdf-in-vanilla-javascript-in-browser)
-- [How to install WordPress](https://blog.thepatik.eu.org/how-to-install-wordpress)
 <!-- BLOG-POST-LIST:END -->
 
 More articles can find on:
