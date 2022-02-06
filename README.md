@@ -19,12 +19,16 @@
 - [My first Microsoft Form App in C#](https://blog.thepatik.eu.org/my-first-microsoft-form-app-in-csharp)
 <!-- BLOG-POST-LIST:END -->
 
-More articles can find on:
+### More articles can find on:
 <p>
 <a href="https://blog.thepatik.eu.org" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
 <a href="https://patik123.medium.com" target="_blank"><img src="https://img.shields.io/badge/medium-000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 <a href="https://dev.to/patik123" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To"></a>
 </p>  
+
+### Support me 💰
+
+<a href="https://www.buymeacoffee.com/patik123" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=patik123&color=blue)
@@ -34,12 +38,16 @@ More articles can find on:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patik123&theme=algolia" alt="Patik123's top Langs">  
  </p>
 
-<span>You can reach me at:</span>
+
+
+### You can reach me at:
 <p>
 <a href="https://twitter.com/Patik123_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.instagram.com/patik_123_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/patrick-kosir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:patik.developer@outlook.com" ><img src="https://img.shields.io/badge/Mail-0078D4.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB3aWR0aD0iNDQiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2U9IiNmZmZmZmYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgPHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+CiAgPHJlY3QgeD0iMyIgeT0iNSIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE0IiByeD0iMiIgLz4KICA8cG9seWxpbmUgcG9pbnRzPSIzIDcgMTIgMTMgMjEgNyIgLz4KPC9zdmc+Cgo=&logoColor=white" alt="Email"></a>
+ <a href="https://www.polywork.com/patik123" target="_blank"><img src="https://img.shields.io/badge/PolyWork-543DE0.svg?&style=for-the-badge&logo=PolyWork&logoColor=white" alt="PolyWork"></a>
+
 </p>
 
   ### My toolbox 🧰
