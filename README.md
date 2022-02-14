@@ -12,11 +12,11 @@
 ### My latest articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How to bypass CAPTCHA?](https://blog.thepatik.com/how-to-bypass-captcha)
-- [Find A reason why to write a blog📚](https://blog.thepatik.com/find-a-reason-why-to-write-a-blog)
-- [Top 5 NuxtJS modules for your next project [2022 edition]](https://blog.thepatik.com/top-5-nuxtjs-modules-for-your-next-project-2022-edition)
-- [How to make money as a programmer in a simple way🤑](https://blog.thepatik.com/how-to-make-money-as-a-programmer-in-a-simple-way)
-- [Let&#39;s program the Arduino with Javascript🤯](https://blog.thepatik.com/lets-program-the-arduino-with-javascript)
+- [How to bypass CAPTCHA?](https://blog.thepatik.eu.org/how-to-bypass-captcha)
+- [Find A reason why to write a blog📚](https://blog.thepatik.eu.org/find-a-reason-why-to-write-a-blog)
+- [Top 5 NuxtJS modules for your next project [2022 edition]](https://blog.thepatik.eu.org/top-5-nuxtjs-modules-for-your-next-project-2022-edition)
+- [How to make money as a programmer in a simple way🤑](https://blog.thepatik.eu.org/how-to-make-money-as-a-programmer-in-a-simple-way)
+- [Let&#39;s program the Arduino with Javascript🤯](https://blog.thepatik.eu.org/lets-program-the-arduino-with-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ### More articles can find on:
