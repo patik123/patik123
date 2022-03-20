@@ -17,11 +17,11 @@
 ### My latest articles 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [How did I build a mobile app for my school?](https://blog.thepatik.com/how-did-i-build-a-mobile-app-for-my-school)
 - [Is a progressive web application the future?](https://blog.thepatik.com/is-a-progressive-web-application-the-future)
 - [How to bypass CAPTCHA?](https://blog.thepatik.com/how-to-bypass-captcha)
 - [Find A reason why to write a blog📚](https://blog.thepatik.com/find-a-reason-why-to-write-a-blog)
 - [Top 5 NuxtJS modules for your next project [2022 edition]](https://blog.thepatik.com/top-5-nuxtjs-modules-for-your-next-project-2022-edition)
-- [How to make money as a programmer in a simple way🤑](https://blog.thepatik.com/how-to-make-money-as-a-programmer-in-a-simple-way)
 <!-- BLOG-POST-LIST:END -->
 
 ### More articles can find on my blogs 📚
