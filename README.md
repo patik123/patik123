@@ -17,11 +17,11 @@
 ### My latest articles 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [One-month internship at HRC](https://blog.thepatik.com/one-month-internship-at-hrc)
 - [Web Storage API - Explain Like I&#39;m Five](https://blog.thepatik.com/web-storage-api-explain-like-im-five)
 - [SQL vs. NoSQL](https://blog.thepatik.com/sql-vs-nosql)
 - [Why is an SSL certificate important?🔐](https://blog.thepatik.com/why-is-an-ssl-certificate-important)
 - [What is CRUD?](https://blog.thepatik.com/what-is-crud)
-- [How did I build a mobile app for my school?](https://blog.thepatik.com/how-did-i-build-a-mobile-app-for-my-school)
 <!-- BLOG-POST-LIST:END -->
 
 ### More articles can find on my blogs 📚
