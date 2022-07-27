@@ -9,7 +9,7 @@
 💬 Ask me about web development.
 
 🚀 My works:
-  - [Mobile application for the School Center Celje](https://scc-mobile.thepatik.eu.org)
+  - Mobile application for the School Center Celje
 
 
 👨‍💻 I am currently working on my first open source software.
