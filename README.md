@@ -17,11 +17,11 @@
 ### My latest articles 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [How I set up my home server](https://blog.thepatik.com/how-i-set-up-my-home-server)
 - [How to make a website compliant with Europe law?](https://blog.thepatik.com/how-to-make-a-website-compliant-with-europe-law)
 - [One-month internship at HRC](https://blog.thepatik.com/one-month-internship-at-hrc)
 - [Web Storage API - Explain Like I&#39;m Five](https://blog.thepatik.com/web-storage-api-explain-like-im-five)
 - [SQL vs. NoSQL](https://blog.thepatik.com/sql-vs-nosql)
-- [Why is an SSL certificate important?🔐](https://blog.thepatik.com/why-is-an-ssl-certificate-important)
 <!-- BLOG-POST-LIST:END -->
 
 ### More articles can find on my blogs 📚
