@@ -17,11 +17,11 @@
 ### My latest articles 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s talk about something - cyber bullying](https://blog.thepatik.com/lets-talk-about-something-cyber-bullying)
 - [A year full of success and new knowledge—Dev Retro 2022](https://blog.thepatik.com/a-year-full-of-success-and-new-knowledgedev-retro-2022)
 - [How I set up my home server](https://blog.thepatik.com/how-i-set-up-my-home-server)
 - [How to make a website compliant with Europe law?](https://blog.thepatik.com/how-to-make-a-website-compliant-with-europe-law)
 - [One-month internship at HRC](https://blog.thepatik.com/one-month-internship-at-hrc)
-- [Web Storage API - Explain Like I&#39;m Five](https://blog.thepatik.com/web-storage-api-explain-like-im-five)
 <!-- BLOG-POST-LIST:END -->
 
 ### More articles can find on my blogs 📚
