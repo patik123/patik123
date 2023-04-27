@@ -15,11 +15,11 @@
 ### My latest articles 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-source software: what makes it so attractive?](https://blog.thepatik.com/open-source-software-what-makes-it-so-attractive)
 - [Let&#39;s talk about something - cyber bullying](https://blog.thepatik.com/lets-talk-about-something-cyber-bullying)
 - [A year full of success and new knowledge—Dev Retro 2022](https://blog.thepatik.com/a-year-full-of-success-and-new-knowledgedev-retro-2022)
 - [How I set up my home server](https://blog.thepatik.com/how-i-set-up-my-home-server)
 - [How to make a website compliant with Europe law?](https://blog.thepatik.com/how-to-make-a-website-compliant-with-europe-law)
-- [One-month internship at HRC](https://blog.thepatik.com/one-month-internship-at-hrc)
 <!-- BLOG-POST-LIST:END -->
 
 ### More articles can find on my blogs 📚
