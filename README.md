@@ -7,7 +7,7 @@
 🌍 I like to share my knowledge with anyone who likes to get it.
 
 🚀 My works:
-  - Web app BiznisBox - business managment system
+  - Web app [BiznisBox](https://www.biznisbox.com) - business managment system
   - Mobile application for the School Center Celje
 
 👨‍💻 I am currently working on [BiznisBox](https://www.biznisbox.com).
@@ -40,9 +40,6 @@
 ### Support me 💰
 
 <a href="https://www.buymeacoffee.com/patik123" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-
-![](https://hit.yhype.me/github/profile?user_id=69119220)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=patik123&color=blue&style=for-the-badge)
 
