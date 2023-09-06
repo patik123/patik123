@@ -56,12 +56,9 @@
 
 ### You can reach me at:
 <p>
-<a href="https://twitter.com/Patik123_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.instagram.com/patik_123_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/patrick-kosir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:patik.developer@outlook.com" ><img src="https://img.shields.io/badge/Mail-0078D4.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB3aWR0aD0iNDQiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2U9IiNmZmZmZmYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgPHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+CiAgPHJlY3QgeD0iMyIgeT0iNSIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE0IiByeD0iMiIgLz4KICA8cG9seWxpbmUgcG9pbnRzPSIzIDcgMTIgMTMgMjEgNyIgLz4KPC9zdmc+Cgo=&logoColor=white" alt="Email"></a>
- <a href="https://www.polywork.com/patik123" target="_blank"><img src="https://img.shields.io/badge/PolyWork-543DE0.svg?&style=for-the-badge&logo=PolyWork&logoColor=white" alt="PolyWork"></a>
-
 </p>
 
   ### My toolbox 🧰
