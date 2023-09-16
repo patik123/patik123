@@ -7,10 +7,10 @@
 🌍 I like to share my knowledge with anyone who likes to get it.
 
 🚀 My works:
-  - Web app [BiznisBox](https://www.biznisbox.com) - business managment system
+  - Web app [BiznisBox](https://www.biznisbox.com) - business management system
   - Mobile application for the School Center Celje
 
-👨‍💻 I am currently working on [BiznisBox](https://www.biznisbox.com).
+👨‍💻 I am currently working on an open-source project [BiznisBox](https://www.biznisbox.com).
 
 ### My latest articles 📝
 
@@ -22,7 +22,7 @@
 - [How I set up my home server](https://blog.thepatik.com/how-i-set-up-my-home-server)
 <!-- BLOG-POST-LIST:END -->
 
-### More articles can find on my blogs 📚
+### More articles can be found on my blogs 📚
 <table>
   <tr>
     <td>
@@ -66,19 +66,18 @@
    ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
    ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
    ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-   ![AdonisJS](https://img.shields.io/badge/-AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
    ![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
    ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
    ![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white)
    ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white)
    ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-   ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+   ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
    ![WooCommerce](https://img.shields.io/badge/-Woocommerce-96588A?style=for-the-badge&logo=woo&logoColor=white)
    ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
    ![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white)
    ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
    ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?&style=for-the-badge&logo=Azure%20DevOps&logoColor=white)
    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-   
+  
    ![](https://hit.yhype.me/github/profile?user_id=69119220)
