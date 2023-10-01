@@ -15,11 +15,11 @@
 ### My latest articles 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Web OTP, and which benefits do it provide to users?](https://blog.thepatik.com/what-is-web-otp-and-which-benefits-do-it-provide-to-users)
 - [The importance of application testing🤖](https://blog.thepatik.com/the-importance-of-application-testing)
 - [Open-source software: what makes it so attractive?](https://blog.thepatik.com/open-source-software-what-makes-it-so-attractive)
 - [Let&#39;s talk about something - cyber bullying](https://blog.thepatik.com/lets-talk-about-something-cyber-bullying)
 - [A year full of success and new knowledge—Dev Retro 2022](https://blog.thepatik.com/a-year-full-of-success-and-new-knowledgedev-retro-2022)
-- [How I set up my home server](https://blog.thepatik.com/how-i-set-up-my-home-server)
 <!-- BLOG-POST-LIST:END -->
 
 ### More articles can be found on my blogs 📚
