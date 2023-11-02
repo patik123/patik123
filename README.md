@@ -15,11 +15,11 @@
 ### My latest articles 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [🎓 GitHub for students benefits &lpar;must know if you are a student&rpar;](https://blog.thepatik.com/github-for-students-benefits-must-know-if-you-are-a-student)
 - [What is an open graph? You must know this feature in web development.](https://blog.thepatik.com/what-is-an-open-graph-you-must-know-this-feature-in-web-development)
 - [What is Web OTP, and which benefits do it provide to users?](https://blog.thepatik.com/what-is-web-otp-and-which-benefits-do-it-provide-to-users)
 - [The importance of application testing🤖](https://blog.thepatik.com/the-importance-of-application-testing)
 - [Open-source software: what makes it so attractive?](https://blog.thepatik.com/open-source-software-what-makes-it-so-attractive)
-- [Let&#39;s talk about something - cyber bullying](https://blog.thepatik.com/lets-talk-about-something-cyber-bullying)
 <!-- BLOG-POST-LIST:END -->
 
 ### More articles can be found on my blogs 📚
