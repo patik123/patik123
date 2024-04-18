@@ -15,11 +15,11 @@
 ### My latest articles 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [🔐Exploring Ways to Secure Your App: From Cookies to Two-Step Verification](https://blog.thepatik.com/exploring-ways-to-secure-your-app-from-cookies-to-two-step-verification)
 - [📂File Management with JavaScript in Node.js](https://blog.thepatik.com/file-management-with-javascript-in-nodejs)
 - [🎓 GitHub for students benefits &lpar;must know if you are a student&rpar;](https://blog.thepatik.com/github-for-students-benefits-must-know-if-you-are-a-student)
 - [What is an open graph? You must know this feature in web development.](https://blog.thepatik.com/what-is-an-open-graph-you-must-know-this-feature-in-web-development)
 - [What is Web OTP, and which benefits do it provide to users?](https://blog.thepatik.com/what-is-web-otp-and-which-benefits-do-it-provide-to-users)
-- [The importance of application testing🤖](https://blog.thepatik.com/the-importance-of-application-testing)
 <!-- BLOG-POST-LIST:END -->
 
 ### More articles can be found on my blogs 📚
