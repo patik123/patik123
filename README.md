@@ -11,6 +11,7 @@
   - Mobile application for the School Center Celje
 
 👨‍💻 I am working on an open-source project [BiznisBox](https://www.biznisbox.com).
+
 ✨ I am currently working at [Bass d.o.o., Celje](https://www.bass.si).
 
 ### My latest articles 📝
