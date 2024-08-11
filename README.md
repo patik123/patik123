@@ -1,6 +1,6 @@
 ### Hey 👋
  
- I'm Patrick, a computer science student from  Slovenia 🇸🇮. 
+ I'm Patrick, a computer science student from Slovenia 🇸🇮. 
  
  ✨ In my free time I learn web development and write articles on my blog.
  
@@ -10,7 +10,8 @@
   - Web app [BiznisBox](https://www.biznisbox.com) - business management system
   - Mobile application for the School Center Celje
 
-👨‍💻 I am currently working on an open-source project [BiznisBox](https://www.biznisbox.com).
+👨‍💻 I am working on an open-source project [BiznisBox](https://www.biznisbox.com).
+✨ I am currently working at [Bass d.o.o., Celje](https://www.bass.si).
 
 ### My latest articles 📝
 
@@ -79,5 +80,6 @@
    ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
    ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?&style=for-the-badge&logo=Azure%20DevOps&logoColor=white)
    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   ![Vaadin](https://img.shields.io/badge/-Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white)
   
    ![](https://hit.yhype.me/github/profile?user_id=69119220)
