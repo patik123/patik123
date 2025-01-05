@@ -59,7 +59,7 @@
 ### You can reach me at:
 <p>
 <a href="https://www.instagram.com/patik_123_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/patrick-kosir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/patrick-kosir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:patik.developer@outlook.com" ><img src="https://img.shields.io/badge/Mail-0078D4.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB3aWR0aD0iNDQiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2U9IiNmZmZmZmYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgPHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+CiAgPHJlY3QgeD0iMyIgeT0iNSIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE0IiByeD0iMiIgLz4KICA8cG9seWxpbmUgcG9pbnRzPSIzIDcgMTIgMTMgMjEgNyIgLz4KPC9zdmc+Cgo=&logoColor=white" alt="Email"></a>
 </p>
 
@@ -71,7 +71,7 @@
    ![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
    ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
    ![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white)
-   ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white)
+   ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
    ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -80,7 +80,9 @@
    ![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white)
    ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
    ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?&style=for-the-badge&logo=Azure%20DevOps&logoColor=white)
-   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
    ![Vaadin](https://img.shields.io/badge/-Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white)
+   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+   ![TeamCity](https://img.shields.io/badge/-TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
   
    ![](https://hit.yhype.me/github/profile?user_id=69119220)
