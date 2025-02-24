@@ -39,10 +39,6 @@
   </tr>
 </table>
 
-### Support me 💰
-
-<a href="https://www.buymeacoffee.com/patik123" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=patik123&color=blue&style=for-the-badge)
 
 <table>
