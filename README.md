@@ -39,17 +39,7 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=patik123&color=blue&style=for-the-badge)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=patik123&theme=algolia" alt="Patik123's GitHub stats" >  
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patik123&theme=algolia" alt="Patik123's top Langs">  
-    </td>
-  </tr>
-</table>
-
+![Map](https://githubcard.com/patik123.svg?d=DxA1ckoQ)
 ### You can reach me at:
 <p>
 <a href="https://www.instagram.com/patik_123_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
