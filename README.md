@@ -2,13 +2,13 @@
  
  I'm Patrick, a computer science student from Slovenia 🇸🇮. 
  
- ✨ In my free time I learn web development and write articles on my blog.
+ ✨ In my free time, I learn web development and write articles on my blog.
  
 🌍 I like to share my knowledge with anyone who likes to get it.
 
 🚀 My works:
   - Web app [BiznisBox](https://www.biznisbox.com) - business management system
-  - Mobile application for the School Center Celje
+  - Mobile application for the School Centre Celje
 
 👨‍💻 I am working on an open-source project [BiznisBox](https://www.biznisbox.com).
 
